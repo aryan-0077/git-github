@@ -1,0 +1,11 @@
+>> git init
+
+>> git remote add origin "https://github.com/aryan-0077/git-github.git"
+>> git remote add origin "__link of gitHub__"
+
+>> git pull origin master
+
+>> 
+
+
+
