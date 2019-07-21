@@ -14,5 +14,16 @@
 >> git add -A
 >> // adding all files at once 
 
+>> git commit -a -m "adding all files at once"
+>> // commiting all files at once
+
+>> git branch firstbranch
+>> // Creating a new Branch
+
+>> git checkout firstbranch
+>> // Checkout a new Branch
+
+
+
 
 
