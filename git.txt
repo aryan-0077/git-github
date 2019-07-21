@@ -23,6 +23,15 @@
 >> git checkout firstbranch
 >> // Checkout a new Branch
 
+** Merging **
+>> git merge firstbranch
+>> // Be aware to be on master branch
+
+>> git rebase firstbranch
+>> // merge first branch to master
+
+
+
 
 
 
