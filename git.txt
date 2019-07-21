@@ -5,7 +5,14 @@
 
 >> git pull origin master
 
->> 
+>> git status
+
+>> git add git.txt
+
+>> git commit -m "adding git.txt in local repo"
+
+>> git add -A
+>> // adding all files at once 
 
 
 
