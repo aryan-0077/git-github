@@ -12,6 +12,7 @@
 >> git commit -m "adding git.txt in local repo"
 
 >> git add -A
+>> git add .
 >> // adding all files at once 
 
 >> git commit -a -m "adding all files at once"
@@ -33,6 +34,8 @@
 
 >> git push origin master
 
-
+>> If error then 
+>> git pull --rebase origin master
+>> git push origin master
 
 
